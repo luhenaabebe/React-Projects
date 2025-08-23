@@ -33,3 +33,21 @@ It’s a modern, fast, and responsive project that demonstrates component-based 
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+```
+```bash
+git clone https://github.com/luhenaabebe/React-Projects.git
+```
+```bash
+cd React-Projects
+```
+
+```bash
+npm install
+npm run dev
+```
+## 👤 Author
+- **Luhena Abebe**  
+- GitHub: [@LuhenaAbebe](https://github.com/LuhenaAbebe)  
+- LinkedIn: [Luhena Abebe](https://www.linkedin.com/in/luhena-abebe-408314380)  
+
